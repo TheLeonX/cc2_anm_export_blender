@@ -1,0 +1,3069 @@
+{
+    "Chunk Maps": [
+        {
+            "Name": "",
+            "Type": "nuccChunkNull",
+            "Path": ""
+        },
+        {
+            "Name": "camera01",
+            "Type": "nuccChunkCamera",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrtskl1_atk1",
+            "Type": "nuccChunkAnm",
+            "Path": "c\\1nrt\\anm\\1nrtskl1_atk1.anm"
+        },
+        {
+            "Name": "1nrtbod1",
+            "Type": "nuccChunkClump",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 trall",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 pelvis",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 spine",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 spine1",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 neck",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 head",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 head1",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 face02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 ponytail01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eyeup_r",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r11",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eyedown_r",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r10",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r09",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r08",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r07",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eyedown_l",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l07",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l08",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l09",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l10",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eyeup_l",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l11",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_l01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_l02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_l03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_l05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_l06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_r02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_r05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_r03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_r06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_r01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_r04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 mayu_l04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 face01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_t01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_t02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_r07",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_l07",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 hair_t03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 face03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 cheek_r",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 cheek_l",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 kuti_down",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r07",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l07",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_c10",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 jaw",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 tongue01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 tongue02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 tongue03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 tongue04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 tongue",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lower teeth",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 kuti_up",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_r01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_c00",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lip_l04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 upper teeth",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 nose",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 kami",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 kao",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r clavicle",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r upperarm",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r forearm",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r hand",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger0",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger1",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger11",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger12",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger2",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger21",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger22",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger3",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger31",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger32",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger4",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger41",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r finger42",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r arm bone04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r arm bone05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r arm bone06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanmr01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanmr02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanmr03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanmr04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanmr",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r arm bone03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r arm bone02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r arm bone01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l clavicle",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l upperarm",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l forearm",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l hand",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger0",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger1",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger11",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger12",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger2",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger21",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger22",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger3",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger31",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger32",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger4",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger41",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l finger42",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l arm bone04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l arm bone05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l arm bone06",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanml01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanml02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanml03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanml04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanml",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l arm bone01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l arm bone02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l arm bone03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 acce01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 acce02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 neck b",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 neck l",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 neck r",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l thigh",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l calf",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l foot",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l toe0",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l foot bone04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l foot bone03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l foot bone05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimel01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimel02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimel03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimel04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimel",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l foot bone01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 l foot bone02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r thigh",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r calf",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r foot",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r toe0",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r foot bone03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r foot bone04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r foot bone05",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimer01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimer02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimer03",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimer04",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimer",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r foot bone02",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 r foot bone01",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 left wear",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 left wearnub",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 right wear",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 right wearnub",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 front wear",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 front wearnub",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 back wear",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 back wearnub",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 body",
+            "Type": "nuccChunkCoord",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrtbody1",
+            "Type": "nuccChunkMaterial",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrtbody11",
+            "Type": "nuccChunkMaterial",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrtbody12",
+            "Type": "nuccChunkMaterial",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrtbody2",
+            "Type": "nuccChunkMaterial",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrteye_l",
+            "Type": "nuccChunkMaterial",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrteye_r",
+            "Type": "nuccChunkMaterial",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 tongue",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 lower teeth",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 upper teeth",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_l",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 eye_r",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 kami",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 kao",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanmr",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_udeanml",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimel",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt_asianimer",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "1nrt00t0 body",
+            "Type": "nuccChunkModel",
+            "Path": "c\\1nrt\\max\\1nrtbod1.max"
+        },
+        {
+            "Name": "4efb_rsn1_00",
+            "Type": "nuccChunkClump",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_trall",
+            "Type": "nuccChunkCoord",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Type": "nuccChunkCoord",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_01",
+            "Type": "nuccChunkCoord",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_02",
+            "Type": "nuccChunkCoord",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Type": "nuccChunkMaterial",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_01",
+            "Type": "nuccChunkMaterial",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_02",
+            "Type": "nuccChunkMaterial",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Type": "nuccChunkModel",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_01",
+            "Type": "nuccChunkModel",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "4efb_rsn1_00_02",
+            "Type": "nuccChunkModel",
+            "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+        },
+        {
+            "Name": "Page0",
+            "Type": "nuccChunkPage",
+            "Path": ""
+        },
+        {
+            "Name": "index",
+            "Type": "nuccChunkIndex",
+            "Path": ""
+        }
+    ],
+    "Chunk References": [
+        {
+            "Name": "1nrt00t0 tongue",
+            "Chunk": {
+                "Name": "1nrtbod1",
+                "Type": "nuccChunkClump",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 trall",
+            "Chunk": {
+                "Name": "1nrt00t0 trall",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0",
+            "Chunk": {
+                "Name": "1nrt00t0",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 pelvis",
+            "Chunk": {
+                "Name": "1nrt00t0 pelvis",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 spine",
+            "Chunk": {
+                "Name": "1nrt00t0 spine",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 spine1",
+            "Chunk": {
+                "Name": "1nrt00t0 spine1",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 neck",
+            "Chunk": {
+                "Name": "1nrt00t0 neck",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 head",
+            "Chunk": {
+                "Name": "1nrt00t0 head",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 head1",
+            "Chunk": {
+                "Name": "1nrt00t0 head1",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 face02",
+            "Chunk": {
+                "Name": "1nrt00t0 face02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 ponytail01",
+            "Chunk": {
+                "Name": "1nrt00t0 ponytail01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eyeup_r",
+            "Chunk": {
+                "Name": "1nrt00t0 eyeup_r",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r05",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r04",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r03",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r02",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r01",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r11",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r11",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eyedown_r",
+            "Chunk": {
+                "Name": "1nrt00t0 eyedown_r",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r10",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r10",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r09",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r09",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r08",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r08",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r07",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r07",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r06",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eyedown_l",
+            "Chunk": {
+                "Name": "1nrt00t0 eyedown_l",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l06",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l07",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l07",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l08",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l08",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l09",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l09",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l10",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l10",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eyeup_l",
+            "Chunk": {
+                "Name": "1nrt00t0 eyeup_l",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l01",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l02",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l03",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l04",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l05",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l11",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l11",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_l01",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_l01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_l02",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_l02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_l03",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_l03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_l05",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_l05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_l06",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_l06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_r02",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_r02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_r05",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_r05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_r03",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_r03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_r06",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_r06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_r01",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_r01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_r04",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_r04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 mayu_l04",
+            "Chunk": {
+                "Name": "1nrt00t0 mayu_l04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 face01",
+            "Chunk": {
+                "Name": "1nrt00t0 face01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r03",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r05",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r01",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l02",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r02",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_t01",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_t01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r06",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l06",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_t02",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_t02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r04",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l04",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l03",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l01",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l05",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_r07",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_r07",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_l07",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_l07",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 hair_t03",
+            "Chunk": {
+                "Name": "1nrt00t0 hair_t03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 face03",
+            "Chunk": {
+                "Name": "1nrt00t0 face03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 cheek_r",
+            "Chunk": {
+                "Name": "1nrt00t0 cheek_r",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 cheek_l",
+            "Chunk": {
+                "Name": "1nrt00t0 cheek_l",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 kuti_down",
+            "Chunk": {
+                "Name": "1nrt00t0 kuti_down",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r07",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r07",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r06",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l07",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l07",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l06",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l05",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r05",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_c10",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_c10",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 jaw",
+            "Chunk": {
+                "Name": "1nrt00t0 jaw",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 tongue01",
+            "Chunk": {
+                "Name": "1nrt00t0 tongue01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 tongue02",
+            "Chunk": {
+                "Name": "1nrt00t0 tongue02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 tongue03",
+            "Chunk": {
+                "Name": "1nrt00t0 tongue03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 tongue04",
+            "Chunk": {
+                "Name": "1nrt00t0 tongue04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 tongue",
+            "Chunk": {
+                "Name": "1nrt00t0 tongue",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lower teeth",
+            "Chunk": {
+                "Name": "1nrt00t0 lower teeth",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 kuti_up",
+            "Chunk": {
+                "Name": "1nrt00t0 kuti_up",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r03",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l03",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r04",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r02",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_r01",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_r01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_c00",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_c00",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l01",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l02",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lip_l04",
+            "Chunk": {
+                "Name": "1nrt00t0 lip_l04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 upper teeth",
+            "Chunk": {
+                "Name": "1nrt00t0 upper teeth",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 nose",
+            "Chunk": {
+                "Name": "1nrt00t0 nose",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 kami",
+            "Chunk": {
+                "Name": "1nrt00t0 kami",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 kao",
+            "Chunk": {
+                "Name": "1nrt00t0 kao",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r clavicle",
+            "Chunk": {
+                "Name": "1nrt00t0 r clavicle",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r upperarm",
+            "Chunk": {
+                "Name": "1nrt00t0 r upperarm",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r forearm",
+            "Chunk": {
+                "Name": "1nrt00t0 r forearm",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r hand",
+            "Chunk": {
+                "Name": "1nrt00t0 r hand",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger0",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger0",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger01",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger02",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger1",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger1",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger11",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger11",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger12",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger12",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger2",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger2",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger21",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger21",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger22",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger22",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger3",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger3",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger31",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger31",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger32",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger32",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger4",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger4",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger41",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger41",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r finger42",
+            "Chunk": {
+                "Name": "1nrt00t0 r finger42",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r arm bone04",
+            "Chunk": {
+                "Name": "1nrt00t0 r arm bone04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r arm bone05",
+            "Chunk": {
+                "Name": "1nrt00t0 r arm bone05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r arm bone06",
+            "Chunk": {
+                "Name": "1nrt00t0 r arm bone06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanmr01",
+            "Chunk": {
+                "Name": "1nrt_udeanmr01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanmr02",
+            "Chunk": {
+                "Name": "1nrt_udeanmr02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanmr03",
+            "Chunk": {
+                "Name": "1nrt_udeanmr03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanmr04",
+            "Chunk": {
+                "Name": "1nrt_udeanmr04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanmr",
+            "Chunk": {
+                "Name": "1nrt_udeanmr",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r arm bone03",
+            "Chunk": {
+                "Name": "1nrt00t0 r arm bone03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r arm bone02",
+            "Chunk": {
+                "Name": "1nrt00t0 r arm bone02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r arm bone01",
+            "Chunk": {
+                "Name": "1nrt00t0 r arm bone01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l clavicle",
+            "Chunk": {
+                "Name": "1nrt00t0 l clavicle",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l upperarm",
+            "Chunk": {
+                "Name": "1nrt00t0 l upperarm",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l forearm",
+            "Chunk": {
+                "Name": "1nrt00t0 l forearm",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l hand",
+            "Chunk": {
+                "Name": "1nrt00t0 l hand",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger0",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger0",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger01",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger02",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger1",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger1",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger11",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger11",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger12",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger12",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger2",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger2",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger21",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger21",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger22",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger22",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger3",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger3",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger31",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger31",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger32",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger32",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger4",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger4",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger41",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger41",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l finger42",
+            "Chunk": {
+                "Name": "1nrt00t0 l finger42",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l arm bone04",
+            "Chunk": {
+                "Name": "1nrt00t0 l arm bone04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l arm bone05",
+            "Chunk": {
+                "Name": "1nrt00t0 l arm bone05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l arm bone06",
+            "Chunk": {
+                "Name": "1nrt00t0 l arm bone06",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanml01",
+            "Chunk": {
+                "Name": "1nrt_udeanml01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanml02",
+            "Chunk": {
+                "Name": "1nrt_udeanml02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanml03",
+            "Chunk": {
+                "Name": "1nrt_udeanml03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanml04",
+            "Chunk": {
+                "Name": "1nrt_udeanml04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanml",
+            "Chunk": {
+                "Name": "1nrt_udeanml",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l arm bone01",
+            "Chunk": {
+                "Name": "1nrt00t0 l arm bone01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l arm bone02",
+            "Chunk": {
+                "Name": "1nrt00t0 l arm bone02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l arm bone03",
+            "Chunk": {
+                "Name": "1nrt00t0 l arm bone03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 acce01",
+            "Chunk": {
+                "Name": "1nrt00t0 acce01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 acce02",
+            "Chunk": {
+                "Name": "1nrt00t0 acce02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 neck b",
+            "Chunk": {
+                "Name": "1nrt00t0 neck b",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 neck l",
+            "Chunk": {
+                "Name": "1nrt00t0 neck l",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 neck r",
+            "Chunk": {
+                "Name": "1nrt00t0 neck r",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l thigh",
+            "Chunk": {
+                "Name": "1nrt00t0 l thigh",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l calf",
+            "Chunk": {
+                "Name": "1nrt00t0 l calf",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l foot",
+            "Chunk": {
+                "Name": "1nrt00t0 l foot",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l toe0",
+            "Chunk": {
+                "Name": "1nrt00t0 l toe0",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l foot bone04",
+            "Chunk": {
+                "Name": "1nrt00t0 l foot bone04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l foot bone03",
+            "Chunk": {
+                "Name": "1nrt00t0 l foot bone03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l foot bone05",
+            "Chunk": {
+                "Name": "1nrt00t0 l foot bone05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimel01",
+            "Chunk": {
+                "Name": "1nrt_asianimel01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimel02",
+            "Chunk": {
+                "Name": "1nrt_asianimel02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimel03",
+            "Chunk": {
+                "Name": "1nrt_asianimel03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimel04",
+            "Chunk": {
+                "Name": "1nrt_asianimel04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimel",
+            "Chunk": {
+                "Name": "1nrt_asianimel",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l foot bone01",
+            "Chunk": {
+                "Name": "1nrt00t0 l foot bone01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 l foot bone02",
+            "Chunk": {
+                "Name": "1nrt00t0 l foot bone02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r thigh",
+            "Chunk": {
+                "Name": "1nrt00t0 r thigh",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r calf",
+            "Chunk": {
+                "Name": "1nrt00t0 r calf",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r foot",
+            "Chunk": {
+                "Name": "1nrt00t0 r foot",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r toe0",
+            "Chunk": {
+                "Name": "1nrt00t0 r toe0",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r foot bone03",
+            "Chunk": {
+                "Name": "1nrt00t0 r foot bone03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r foot bone04",
+            "Chunk": {
+                "Name": "1nrt00t0 r foot bone04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r foot bone05",
+            "Chunk": {
+                "Name": "1nrt00t0 r foot bone05",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimer01",
+            "Chunk": {
+                "Name": "1nrt_asianimer01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimer02",
+            "Chunk": {
+                "Name": "1nrt_asianimer02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimer03",
+            "Chunk": {
+                "Name": "1nrt_asianimer03",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimer04",
+            "Chunk": {
+                "Name": "1nrt_asianimer04",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimer",
+            "Chunk": {
+                "Name": "1nrt_asianimer",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r foot bone02",
+            "Chunk": {
+                "Name": "1nrt00t0 r foot bone02",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 r foot bone01",
+            "Chunk": {
+                "Name": "1nrt00t0 r foot bone01",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 left wear",
+            "Chunk": {
+                "Name": "1nrt00t0 left wear",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 left wearnub",
+            "Chunk": {
+                "Name": "1nrt00t0 left wearnub",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 right wear",
+            "Chunk": {
+                "Name": "1nrt00t0 right wear",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 right wearnub",
+            "Chunk": {
+                "Name": "1nrt00t0 right wearnub",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 front wear",
+            "Chunk": {
+                "Name": "1nrt00t0 front wear",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 front wearnub",
+            "Chunk": {
+                "Name": "1nrt00t0 front wearnub",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 back wear",
+            "Chunk": {
+                "Name": "1nrt00t0 back wear",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 back wearnub",
+            "Chunk": {
+                "Name": "1nrt00t0 back wearnub",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 body",
+            "Chunk": {
+                "Name": "1nrt00t0 body",
+                "Type": "nuccChunkCoord",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrtbody1",
+            "Chunk": {
+                "Name": "1nrtbody1",
+                "Type": "nuccChunkMaterial",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrtbody11",
+            "Chunk": {
+                "Name": "1nrtbody11",
+                "Type": "nuccChunkMaterial",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrtbody12",
+            "Chunk": {
+                "Name": "1nrtbody12",
+                "Type": "nuccChunkMaterial",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrtbody2",
+            "Chunk": {
+                "Name": "1nrtbody2",
+                "Type": "nuccChunkMaterial",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrteye_l",
+            "Chunk": {
+                "Name": "1nrteye_l",
+                "Type": "nuccChunkMaterial",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrteye_r",
+            "Chunk": {
+                "Name": "1nrteye_r",
+                "Type": "nuccChunkMaterial",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 tongue",
+            "Chunk": {
+                "Name": "1nrt00t0 tongue",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 lower teeth",
+            "Chunk": {
+                "Name": "1nrt00t0 lower teeth",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 upper teeth",
+            "Chunk": {
+                "Name": "1nrt00t0 upper teeth",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_l",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_l",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 eye_r",
+            "Chunk": {
+                "Name": "1nrt00t0 eye_r",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 kami",
+            "Chunk": {
+                "Name": "1nrt00t0 kami",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 kao",
+            "Chunk": {
+                "Name": "1nrt00t0 kao",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanmr",
+            "Chunk": {
+                "Name": "1nrt_udeanmr",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_udeanml",
+            "Chunk": {
+                "Name": "1nrt_udeanml",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimel",
+            "Chunk": {
+                "Name": "1nrt_asianimel",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt_asianimer",
+            "Chunk": {
+                "Name": "1nrt_asianimer",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "1nrt00t0 body",
+            "Chunk": {
+                "Name": "1nrt00t0 body",
+                "Type": "nuccChunkModel",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Chunk": {
+                "Name": "4efb_rsn1_00",
+                "Type": "nuccChunkClump",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_trall",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_trall",
+                "Type": "nuccChunkCoord",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_00",
+                "Type": "nuccChunkCoord",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_01",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_01",
+                "Type": "nuccChunkCoord",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_02",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_02",
+                "Type": "nuccChunkCoord",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_00",
+                "Type": "nuccChunkMaterial",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_01",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_01",
+                "Type": "nuccChunkMaterial",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_02",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_02",
+                "Type": "nuccChunkMaterial",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_00",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_00",
+                "Type": "nuccChunkModel",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_01",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_01",
+                "Type": "nuccChunkModel",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        },
+        {
+            "Name": "4efb_rsn1_00_02",
+            "Chunk": {
+                "Name": "4efb_rsn1_00_02",
+                "Type": "nuccChunkModel",
+                "Path": "e\\4efb\\rsn1\\max\\4efb_rsn1_00.max"
+            }
+        }
+    ],
+    "Chunks": [
+        {
+            "File Name": "camera01.camera",
+            "Version": 121,
+            "Version Attribute": 0,
+            "Chunk": {
+                "Name": "camera01",
+                "Type": "nuccChunkCamera",
+                "Path": "c\\1nrt\\max\\1nrtbod1.max"
+            }
+        },
+        {
+            "File Name": "1nrtskl1_atk1.anm",
+            "Version": 121,
+            "Version Attribute": 0,
+            "Chunk": {
+                "Name": "1nrtskl1_atk1",
+                "Type": "nuccChunkAnm",
+                "Path": "c\\1nrt\\anm\\1nrtskl1_atk1.anm"
+            }
+        }
+    ]
+}
