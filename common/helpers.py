@@ -53,6 +53,8 @@ def make_chunk_dict(path: str, chunk_name: str, chunk_type: str, clump=None, ref
 		# File Chunk
 		chunk_file = dict()
 		chunk_file["File Name"] = filename
+		chunk_file["Version"] = 121
+		chunk_file["Version Attribute"] = 0
 		chunk_file["Chunk"]: Dict = chunk
 
 		return chunk_file

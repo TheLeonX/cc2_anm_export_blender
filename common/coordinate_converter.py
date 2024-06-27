@@ -1,101 +1,106 @@
 import math
+from mathutils import Matrix, Quaternion, Euler, Vector
 
-from mathutils import  Quaternion, Euler, Vector
-from typing import Tuple, List, Any
-from bpy.types import Armature
-from mathutils import Matrix
+from typing import Tuple, List
 
-from common.armature_props import AnmArmature
-from common.bone_props import get_edit_matrix, get_matrix_world
-from xfbin.xfbinlib import CurveFormat
-from xfbin.xfbinlib import math
+# https://github.com/SutandoTsukai181/cc2_xfbin_blender/blob/main/blender/common/coordinate_converter.py
 
+def rot_to_blender(rot: Tuple[float, float, float]):
+	return Euler(tuple(map(lambda x: math.radians(x), rot)), 'ZYX')
 
-
-QUAT_COMPRESS = 0x4000
-SCALE_COMPRESS = 0x1000
-
-# Helper functions
-def to_radians(degrees: float) -> float:
-	return math.radians(degrees)
-
-def to_degrees(radians: float) -> float:
-	return math.degrees(radians)
-
-def meters_to_centimeters(meters: float) -> float:
-	return meters * 100
-
-def to_fixed_point(value: float, scale: int) -> int:
-	return int(value * scale)
-
-# Conversion functions
-def rot_to_blender(rot: Tuple[float, float, float]) -> Euler:
-	return Euler(tuple(map(to_radians, rot)), 'ZYX')
 
 def pos_m_to_cm_tuple(pos: Tuple[float, float, float]) -> Tuple[float, float, float]:
-	return tuple(map(meters_to_centimeters, pos))
+	# From meter to centimeter
+	return tuple(map(lambda x: x * 100, pos))
+
 
 def rot_from_blender(rot: Euler) -> Tuple[float, float, float]:
-	return tuple(map(to_degrees, rot))
+	return tuple(map(lambda x: math.degrees(x), rot))
 
+def convert_light_values(conversion_type: str, values: List) -> List:
+	if conversion_type == "light_color":
+		return list(map(lambda x: tuple([int(x * 0xFF) for y in x]), values))
 
+	elif conversion_type == "light_strength":
+		return list(map(lambda x: x, values))
 
-def convert_bone_value(anm_armature: AnmArmature, bone_name: str, data_path: str, curve_format: CurveFormat, values: List[Any], frame: int = 0) -> Tuple[Any]:
-	armature: Armature = anm_armature.armature
+	elif conversion_type == "light_pos":
+		return list(map(lambda x: pos_m_to_cm_tuple((x)[:]), values))
 
-	has_parent: bool = any(bone_name for bone in anm_armature.armature.data.bones if bone.parent)
+	elif conversion_type == "light_radius":
+		return list(map(lambda x: x * 100, values))
 
-	edit_matrix: Matrix = get_edit_matrix(armature, bone_name)
-	
-
-	def translate(seq: List[float]) -> Tuple[float]:
-		if has_parent:
-			loc, rot, _ = edit_matrix.decompose()
-			translation = Vector(seq)
-			translation.rotate(rot)
-
-			return tuple(pos_m_to_cm_tuple((translation + loc)[:]))
-		else:
-			world_matrix: Matrix = get_matrix_world(armature, edit_matrix, bone_name)
-			translation = Vector(seq) + world_matrix.to_translation().copy() # Add the armature's matrix world location to the translation
-			print(world_matrix.to_translation().copy()[:])
-			return tuple(pos_m_to_cm_tuple((translation)[:]))
-			
-			
-	def rotate_quaternion(seq: List[float]) -> Tuple[int, int, int, int]:
-		if has_parent:
-			_, rot, _ = edit_matrix.decompose()
-			rotation = Quaternion(seq)
-			rotation = (rot @ rotation).inverted()
-			# Swizzle the quaternion to match the game's format to x, y, z, w
-			rotation = Quaternion((rotation.x, rotation.y, rotation.z, rotation.w))
-			return tuple(rotation)
-		else:
-			world_matrix: Matrix = get_matrix_world(armature, edit_matrix, bone_name)
-			rotation = world_matrix.to_quaternion().copy() @ Quaternion(seq)
-			rotation = Quaternion((-rotation.x, -rotation.y, -rotation.z, rotation.w))
-			return tuple([int(seq * QUAT_COMPRESS) for seq in rotation[:]])
-			
-			
-
-
-	match data_path, curve_format:
-		case 'location', CurveFormat.Vector3Linear:
-			return math.Vec3Linear(frame * 100, translate(values))
-		case 'location', CurveFormat.Vector3Fixed:
-			return math.Vec3(translate(values))
-		case 'rotation_quaternion', CurveFormat.QuaternionLinear:
-			return math.Vec4Linear(frame * 100, rotate_quaternion(values))
-		case 'scale', CurveFormat.Vector3Linear:
-			scale = Vector([abs(seq) for seq in values])[:]
-			return math.Vec3Linear(frame * 100, tuple(scale[:]))
-		case 'scale', CurveFormat.Vector3Fixed:
-			scale = Vector([abs(seq) for seq in values])[:]
-			return math.Vec3(tuple(scale))
+	elif conversion_type == "light_rot":
+		converted = list(map(lambda rot: (-rot.x, -rot.y, -rot.z, rot.w), values))
+		return list(map(lambda x: tuple([int(y * 0x4000) for y in x]), converted))
 		
+	elif conversion_type == "light_rot_euler":
+		return list(map(lambda x: rot_from_blender((x.to_quaternion().inverted()).to_euler('ZYX')[:]), values))
+
+def convert_camera_values(conversion_type: str, values: List) -> List:
+	if conversion_type == "camera_pos":
+		return list(map(lambda x: pos_m_to_cm_tuple((x)[:]), values))
+
+	elif conversion_type == "camera_rot":
+		converted = list(map(lambda rot: (-rot.x, -rot.y, -rot.z, rot.w), values))
+		return list(map(lambda x: tuple([int(y * 0x4000) for y in x]), converted))
+		
+	elif conversion_type == "camera_rot_euler":
+		return list(map(lambda x: rot_from_blender((x.to_quaternion().inverted()).to_euler('ZYX')[:]), values))
+
+	elif conversion_type == "camera_FOV":
+		return list(map(lambda x: x, values))
 
 
-	
 
-	return values
+def convert_to_anm_values(data_path: str, values: List, loc: Vector, rot: Quaternion, sca: Vector) -> List:
+	if data_path == 'location':
+		updated_values = list()
+		for value_loc in values:
+			vec_loc = Vector([value_loc[0],value_loc[1],value_loc[2]])
+			vec_loc.rotate(rot)
+			updated_values.append(vec_loc + loc)
+
+		return list(map(lambda x: pos_m_to_cm_tuple((x)[:]), updated_values))
+		
+	if data_path == 'location_camera':
+		return list(map(lambda x: pos_m_to_cm_tuple((x)[:]), values))
+
+	if data_path == 'rotation_euler':
+		return list(map(lambda x: rot_from_blender((rot @ x.to_quaternion().inverted()).to_euler('ZYX')[:]), values))
+
+	if data_path == 'rotation_quaternion':
+		converted = list(map(lambda x: (rot @ x).inverted(), values))
+		converted = list(map(lambda rot: (rot.x, rot.y, rot.z, rot.w), converted))
+		return list(map(lambda x: tuple([int(y * 0x4000) for y in x]), converted))
+
+	if data_path == 'rotation_quaternion_keyframe':
+		converted = list(map(lambda x: (rot @ x).inverted(), values))
+		converted = list(map(lambda rot: (rot.x, rot.y, rot.z, rot.w), converted))
+		return converted
+	if data_path == 'rotation_quaternion_camera':
+		converted = list(map(lambda x: (rot).inverted(), values))
+		converted = list(map(lambda rot: (-rot.x, -rot.y, -rot.z, rot.w), values))
+		return list(map(lambda x: tuple([int(y * 0x4000) for y in x]), converted))
+
+	if data_path == 'rotation_quaternion_euler':
+		return list(map(lambda x: rot_from_blender((x.to_quaternion() @ rot.inverted()).to_euler('ZYX')[:]), values))
+
+	if data_path == 'scale_keyframe':
+		return list(map(lambda x: (Vector(([abs(y) for y in x])) * sca )[:], values))
+
+	if data_path == 'scale' and len(values) < 2:
+		return list(map(lambda x: (Vector(([abs(y) for y in x])) * sca )[:], values))
+
+	elif data_path == 'scale' and len(values) > 1:
+		converted = list(map(lambda x: (Vector(([abs(y) for y in x])) * sca )[:], values))
+		return list(map(lambda x: tuple([int(y * 0x1000) for y in x]), converted))
+
+	elif data_path == 'short_toggle':
+		return list(map(lambda x: x * 0x1000, values))
+
+
+
+
+
 
